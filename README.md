@@ -1,6 +1,7 @@
 # 在 Windows10 系统中安装 Homestead 本地开发环境 （小白填坑版）
 
   刚入门学习laravel总会遇到各种问题，比如安装homestead，本文记录安装homestead的整个过程，记录时间2019/03/15（刚好315消协日）
+
 ## 准备工作
 - VirtualBox
 - Vagrant
@@ -12,6 +13,7 @@
 - [Vagrant v2.2.4 64-bit](https://releases.hashicorp.com/vagrant/2.2.4/vagrant_2.2.4_x86_64.msi)
 
   下载好了安装过程就不记录了，尽量不要装在系统盘
+
 ## 开始填坑
   Vagrant安装好了之后，按win+R键，在运行对话框里输入cmd，打开cmd，切换目录到其他非系统盘，我切换到E:\homestead，接着初始化目录，并下载box
 ```sh
@@ -64,6 +66,7 @@ vagrant box list
 ```
 
   可以看到laravel/homestead (virtualbox, 0)已经在列表里面了
+
 ## 安装homestead
 ```sh
 git clone https://github.com/laravel/homestead.git Homestead
