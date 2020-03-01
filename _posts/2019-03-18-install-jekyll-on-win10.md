@@ -30,17 +30,11 @@ categories: post
 ```sh
 gem install jekyll bundler
 ```
-#### 8.等待一会儿之后，会收到
-> 26 gems installed
-
-#### 的提示，接着输入
+#### 8.等待一会儿之后，会收到 `26 gems installed` 的提示，接着输入
 ```sh
 jekyll -v
 ```
-#### 如果得到
-> jekyll 3.8.5
-
-#### 的提示，说明成功安装了Jekyll。
+#### 如果得到 `jekyll 3.8.5` 的提示，说明成功安装了Jekyll。
 
 ## 快速开始
 
