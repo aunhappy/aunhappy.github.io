@@ -3,8 +3,10 @@ layout: post
 title:  "在 Windows10 系统中安装 Homestead 本地开发环境 （小白填坑版）"
 date:   2019-03-15 10:21:38 +0800
 categories: post
+excerpt_separator: <!--more-->
 ---
   刚入门学习laravel总会遇到各种问题，比如安装homestead，本文记录安装homestead的整个过程，记录时间2019/03/15（刚好315消协日）
+<!--more-->
 
 ## 准备工作
 - VirtualBox
