@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "借助DnsAgent，让HomeStead快捷实现多站点设置"
+title:  "借助 DnsAgent，让 HomeStead 快捷实现多站点设置"
 date:   2019-03-16 10:21:38 +0800
 categories: post
 ---

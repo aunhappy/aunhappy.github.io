@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "在linux后台运行脚本的方法和命令"
+title:  "在 Linux 后台运行脚本的方法和命令"
 date:   2020-03-02 19:03:38 +0800
 categories: post
 ---

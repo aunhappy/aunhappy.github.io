@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "在win10上安装jekyll"
+title:  "在 WIN10 上安装 Jekyll "
 date:   2019-03-18 17:48:38 +0800
 categories: post
 ---
