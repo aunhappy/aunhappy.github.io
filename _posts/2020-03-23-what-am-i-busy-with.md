@@ -20,7 +20,7 @@ categories: post
 　　又是一年春来到，春笋已然冒尖，在外的游子，尚未出头！
 
 　　参与 [午安煎饼计划](https://github.com/wuancake/wuancake/blob/master/Wuancake.md) 的日子里，学会了如何编写 [接口文档](https://aunhappy.gitbooks.io/wuanlife/content/) 。如今看着那些写得乱七八糟的支付接口文档，想着当年那个与之合作的川大前端学长，终于明白了他当时抓狂的原因.
-
+    除了 **PHP** 之外，最近还自学了 **Google Script** ，配上 **Google Sheet** 作数据库，写了个问答 **Telegram Bot** 。
 　　（输入法抽的哪门子风，中文句号打不出来！．．．）
 
 
@@ -46,6 +46,7 @@ categories: post
 　　5. **Google is the best teacher in the world.**
 　　6. **Python** 爬取过小说，**Nodejs** 写过自动签到脚本，仅此而已。
 
+    
 　　希望顺利入职！一直在前进的路上……
 
   
