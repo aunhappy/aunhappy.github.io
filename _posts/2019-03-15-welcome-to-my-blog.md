@@ -6,6 +6,6 @@ categories: post
 ---
 ```php
 <?php
-echo '你好，世界。欢迎来到我的博客';
+echo '你好，面试官。欢迎来到我的博客';
 ?>
 ```
