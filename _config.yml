@@ -17,10 +17,10 @@ title: aunhappy blog
 description: >- # this means to ignore newlines until "baseurl:"
   技术|随想|心情|记录
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aunhappy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aunhappy
 show_excerpts: true
-
+author: aunhappy
 # Build settings
 markdown: kramdown
 theme: minima
