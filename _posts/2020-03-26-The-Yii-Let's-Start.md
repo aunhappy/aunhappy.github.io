@@ -6,7 +6,7 @@ categories: post
 ---
 　　Getting Started!
 
-　　### 参考链接
+### 参考链接
 
 [Yii PHP Framework](https://www.yiiframework.com/)
 
