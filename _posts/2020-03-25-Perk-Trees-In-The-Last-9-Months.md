@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "最近9个月技能术点亮"
+title:  "最近9个月技能树点亮"
 date:   2020-03-25 12:49:38 +0800
 categories: post
 ---
@@ -14,7 +14,7 @@ categories: post
 
 　　复习了 [w3schools](https://www.w3schools.com) 上面的 [HTML](https://www.w3schools.com/html/) [CSS](https://www.w3schools.com/css/default.asp) [JavaScript](https://www.w3schools.com/js/default.asp) 知识，但是就如同心理学家[赫尔曼·艾宾浩斯](https://zh.wikipedia.org/wiki/赫尔曼·艾宾浩斯)提出的[遗忘曲线](https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF)理论，我现在又忘得七七八八了，只有不断的复习，才能印象深刻。
 
-​　　除了最原生的前端语言之外，还在学习 [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) [NodeJs](https://nodejs.org/en/docs/) ，老实说，是没有专业的前端开发人员精通，仅作了解罢了。
+　　除了最原生的前端语言之外，还在学习 [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) [NodeJs](https://nodejs.org/en/docs/) ，老实说，是没有专业的前端开发人员精通，仅作了解罢了。
 
 　　上班的时候偶尔会用到 [layer](https://layer.layui.com/) 来实现弹窗功能。
 
